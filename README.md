@@ -41,7 +41,7 @@ npm install
 
 In the end, your file should look like this:
 ```
-DISCORD_TOKEN=NDQ0OTU4ODkyMzgwNzgyNTky.Dhxlog.2VyI9uaXRO0t36vMsH5wVDjqpfk
+DISCORD_TOKEN=YOUR TOKEN HERE
 PREFIX=s!
 ```
 
